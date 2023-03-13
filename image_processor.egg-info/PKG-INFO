@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: image-processor
+Version: 0.0.1
+Summary: Image Processor Package
+Home-page: https://github.com/sesaquecruz/dio-python-package-lab
+Author: DIO Lab
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+Image Processor Package for DIO Lab
+
